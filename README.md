@@ -1,16 +1,21 @@
-## Hi there 👋
+<div id="header" align="center">
 
-<!--
-**suayuni/suayuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![](https://komarev.com/ghpvc/?username=yurenagara&label=⠀⠀⠀♡⠀⠀⠀&style=plastic&color=de73a2) </div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  
+  <img src="https://i.postimg.cc/gkxNGGxk/Mw-Ie-Spa52-Ax-h7-AZU164-OHZZrl-Al-CO71kfk-G9mj8-Q-Photoroom-1-Photoroom-1.png">
+  
+<div id="header" align="center">
+  
+ [atabook](https://angelic.atabook.org/)‎‎ ‎ ‎  ‎[rentry](https://rentry.co/-sense)‎ ‎ ‎ ‎[pronouns](https://pronouns.cc/@angelbeat) 
+</div>
+
+ <div id="header" align="center"> 
+<img src="https://xyz.crd.co/assets/images/gallery12/e4d6c30f.gif?v=3263a73c"> ‎ ‎  ‎ ‎‎ ‎ ‎‎  ‎ ‎ <img src="https://graphic.neocities.org/computer_3.gif">‎ ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎ <img src="https://wilardo.crd.co/assets/images/gallery14/dda84c92.gif?v=c0a0770b">
+  <div id="header" align="center">
+   ⠀
+⠀
+ 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ld5hftzj7if8qbcymrsdzvy8n&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ee77a7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
