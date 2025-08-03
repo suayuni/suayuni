@@ -18,4 +18,4 @@
    ⠀
 ⠀
  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ld5hftzj7if8qbcymrsdzvy8n&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ee77a7&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ld5hftzj7if8qbcymrsdzvy8n&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=f27dbc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
