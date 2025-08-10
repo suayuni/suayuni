@@ -12,7 +12,7 @@
   
 <div id="header" align="center">
   
- [spacehey](https://spacehey.com/tartaglialover)‎‎ ‎ ‎  ‎[rentry](https://rentry.co/-sense)‎ ‎ ‎ ‎[pronouns](https://pronouns.cc/@angelbeat) 
+ [spacehey](https://spacehey.com/tartaglialover)‎‎ ‎ ‎  ‎[rentry](https://rentry.co/-sense)‎ ‎ ‎ ‎[pronouns]([https://pronouns.cc/@chiscaaras) 
 </div>
 
  <div id="header" align="center"> 
